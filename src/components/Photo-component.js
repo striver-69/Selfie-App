@@ -56,6 +56,7 @@ export default class PhotoDatabase extends Component {
             <tr>
               <th>Description</th>
               <th>Date</th>
+              <th>Functionality</th>
             </tr>
           </thead>
           <tbody>
