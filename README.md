@@ -11,7 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `cd\backend node server.js`
+### `cd .\backend\ node server.js`
 
 Runs the backend server in development mode
 Open [http://localhost:5000/selfie] to interact with database
